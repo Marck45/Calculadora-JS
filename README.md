@@ -10,8 +10,13 @@ utilizando apenas JS, trabalhando conceitos que farão diferença em varios proj
 ### Dicas
 
 1- Pra ligar ou desligar o som das teclas click duas vezes em "AC".
+
 &nbsp;
+
 2- Projeto com interação ao Keybord.
+
+&nbsp;
+
 3- Multiplos Calculos (Salva o restultado e a operação anterior, podem ser repetida clicando apenas no botão igual ou "Enter").
 
 ### Projeto
